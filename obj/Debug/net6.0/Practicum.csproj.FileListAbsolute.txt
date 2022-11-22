@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\Practicum\obj\Debug\net6.0\Practicum.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Practicum\obj\Debug\net6.0\Practicum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Practicum\obj\Debug\net6.0\Practicum.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Practicum\obj\Debug\net6.0\Practicum.AssemblyInfo.cs
+C:\Users\PC\Desktop\Practicum\obj\Debug\net6.0\Practicum.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Practicum\bin\Debug\net6.0\Practicum.exe
+C:\Users\PC\Desktop\Practicum\bin\Debug\net6.0\Practicum.deps.json
+C:\Users\PC\Desktop\Practicum\bin\Debug\net6.0\Practicum.runtimeconfig.json
+C:\Users\PC\Desktop\Practicum\bin\Debug\net6.0\Practicum.dll
+C:\Users\PC\Desktop\Practicum\bin\Debug\net6.0\Practicum.pdb
+C:\Users\PC\Desktop\Practicum\obj\Debug\net6.0\Practicum.dll
+C:\Users\PC\Desktop\Practicum\obj\Debug\net6.0\refint\Practicum.dll
+C:\Users\PC\Desktop\Practicum\obj\Debug\net6.0\Practicum.pdb
+C:\Users\PC\Desktop\Practicum\obj\Debug\net6.0\Practicum.genruntimeconfig.cache
+C:\Users\PC\Desktop\Practicum\obj\Debug\net6.0\ref\Practicum.dll
